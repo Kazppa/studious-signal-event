@@ -1,2 +1,2 @@
 # studious-signal-event
-Signal/Slot system using modern c++
+Signal/Slot system using c++17
